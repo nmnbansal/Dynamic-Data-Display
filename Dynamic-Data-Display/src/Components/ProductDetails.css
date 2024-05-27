@@ -1,0 +1,20 @@
+.product-details-container {
+    margin: 20px;
+    border: 1px solid #ddd;
+    padding: 20px;
+  }
+  
+  .product-title {
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .product-category, .product-price, .product-description {
+    margin-bottom: 5px;
+  }
+  
+  .product-image {
+    width: 100px;
+    height: 100px;
+  }
+  
